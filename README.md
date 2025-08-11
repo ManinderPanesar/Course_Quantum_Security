@@ -4,4 +4,7 @@ This repository contains the hands-on exercises included in the course “Quantu
 ## Goal
 
 ### Module 4
-For Module 4 on QKD, we will implement the two QKD protocols: BB84, E91. 
+For Module 4 on Quantum Key Distribution, we will implement the two QKD protocols: BB84, E91. 
+
+### Module 5
+For Module 5 on Quantum Random Number Generator, we will generate random number using Qiskit. 
